@@ -1,0 +1,25 @@
+ONLINE LIBRARY MANAGEMENT:
+Admin/User:
+registration:---
+id:number
+name:String
+email:String
+profile:String
+password:String
+role:string
+phone:Number
+login:----
+email:String
+password:String
+
+BOOKS:(name,id)
+post
+get
+put
+delete
+
+User/BOOKS:
+get all:
+get one:
+
+
